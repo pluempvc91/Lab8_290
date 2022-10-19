@@ -1,0 +1,1 @@
+Received a SIGUSR1. The max n is 20! = 2432902008176640000
